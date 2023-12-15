@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Blog of lxf
+subtitle: 'I'm still learning'
+description: '日常学习记录'
 keywords:
-author: John Doe
+author: Li Xuefeng
 language: en
 timezone: ''
 
