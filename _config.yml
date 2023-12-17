@@ -97,6 +97,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+plugins:
+- name: '@renbaoshuo/markdown-it-katex'
+  options:
+    skipDelimitersCheck: true
+- hexo-renderer-markdown-it
+- hexo-renderer-markdown-it-plus
 markdown_it_plus:
     highlight: true
     html: true
