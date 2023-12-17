@@ -52,6 +52,9 @@ twitter:
 fb_admins:
 fb_app_id:
 
+links:
+  github: https://github.com/602753090
+
 # valine comment system. https://valine.js.org
 valine:
   enable: false # if you want use valine,please set this value is true
