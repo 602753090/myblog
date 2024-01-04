@@ -11,13 +11,13 @@ tags:
 
 采用yolov5s预训练模型进行训练，训练集为19张电脑前置摄像头采集的720p图片。
 
-# 环境
+## 环境
 
 使用python3.11，pytorch，CUDA11.2，cuDNN8.1.0
 
 通过gpu进行训练，gpu型号：NVIDIA RTX 2080s
 
-## 安装项目依赖
+### 安装项目依赖
 
 在项目文件夹下执行以下命令安装yolov5及相应依赖
 
@@ -27,11 +27,11 @@ cd yolov5
 pip install -r requirements.txt  # install
 ```
 
-# 图像标注
+## 图像标注
 
 训练集为19张电脑前置摄像头采集的720p图片，使用[makesense](https://www.makesense.ai/)进行图片在线标注，导出对应的jpg和txt文件，txt文件即为yolo格式的标签文件。标签数量为1，标签名为hand。
 
-# 模型训练
+## 模型训练
 
 修改yaml文件中相关配置
 
