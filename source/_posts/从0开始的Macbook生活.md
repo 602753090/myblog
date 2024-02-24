@@ -11,12 +11,12 @@ tags:
 **最后更新于2024-02-24 23:44**
 
 这是一篇写给乖崽的Macbook使用指南～有问题请qq联系提供一对一指导服务❤️！
-# 前言
+## 前言
 买了新的Macbook不会用？这篇文章手把手教你从0开始配置Macbook，从下单到日常保养维护到高级使用技巧应有尽有！快来学习吧！（其实我自己也在探索中，本文将不定期更新）
-# 目录
+## 目录
 @[toc]
-# 购买篇
-## 型号比较
+## 购买篇
+### 型号比较
 以下是产品对比，快来挑选适合自己的Macbook吧！
 
 注：由于m3的air还未发布，暂时以m2代替，发布后更新
@@ -33,7 +33,7 @@ tags:
 |官网教育优惠11049	|官网教育优惠13549|	|
 
 
-## 购买渠道
+### 购买渠道
 目前主流的购买渠道有苹果官网、淘宝旗舰店、jd、pdd，淘宝旗舰店和官网相同不再单独列出。
 
 注1：当前的Air为m2版本，m3待发布后更新
@@ -45,7 +45,7 @@ tags:
 |[Pro](https://www.apple.com.cn/cn-edu/shop/buy-mac/macbook-pro/MTL73CH/A)¥13549|[Pro](https://3.cn/-1VRymTF)¥13049|[Pro](https://mobile.yangkeduo.com/goods.html?refer_share_id=KLwcQS0vlno7sJNrsyxecpggJvYHnC3l&refer_share_channel=copy_link&_oak_share_detail_id=4145883993&pxq_secret_key=VO7SD2CNM37YQY7K44MN2ZQDSGJOTZA5RXQ4G4ZW52VU2OQDSEMA&_wvx=10&_oak_share_time=1708781271&_wv=41729&share_uin=YI56W7MNZXSEHE5HQNOUH74NHI_GEXDA&_x_query=macbook%20pro%20m3&page_from=23&refer_share_uin=YI56W7MNZXSEHE5HQNOUH74NHI_GEXDA&goods_id=581831943529&_oak_share_snapshot_num=1209900&_x_org=2)¥12099|
 |官网14天真·无理由|除7天无理由外基本等于官网|7天无理由，有翻车风险|
 
-## 实用配件
+### 实用配件
 下单心爱的Macbook以后，当然也要好好爱护啦！别忘记购买配件！这里是**配件清单**！
 
 1. 3M擦屏布 - 擦拭屏幕不划伤！
@@ -58,10 +58,10 @@ tags:
 
 以上商品添加[淘宝购物车](https://m.tb.cn/h.5uouQ7Qy1nOVyBI?tk=8bXZWPsDDsf)
 
-# 验货篇
+## 验货篇
 接下来收到Macbook最重要的第一步就是**验货**啦！
-## 收货开箱
-### 录视频
+### 收货开箱
+#### 录视频
 - 开箱过程中一定要全程录制视频！检查箱子有无磕碰，确认无误后开箱！
 
 - 拆快递包装后检查**纸箱包装**是否完好！确认无误后开启！
@@ -69,9 +69,9 @@ tags:
 - 检查**Mac包装**是否完好！确认无误后拆封！
 
 - 检查**Mac外观**，有无磕碰划痕
-### 序列号
+#### 序列号
 核对纸箱包装序列号、Mac包装序列号、Mac底部序列号、售后卡序列号是否一致！
-## 开机
+### 开机
 检查完毕后**开机**！
 
 全部设置完成后，进入**桌面**，点击左上角**苹果图标**，关于本机，查看**序列号**是否一致！
@@ -79,14 +79,14 @@ tags:
 <img src="guanyu.jpg" height="25%" width="25%">
 <img src="本机信息.png" height="25%" width="25%">
 
-### 官网查询序列号
+#### 官网查询序列号
 进入[**官网序列号查询**](https://checkcoverage.apple.com/?locale=zh_CN)查看保修！
 
-## 小结
+### 小结
 到这里如果都没有问题，那么恭喜你成功下车！接下来可以开始愉快地探索Mac啦！
 
-# 使用篇
-## 触控板
+## 使用篇
+### 触控板
 Macbook的触控板用了都说好！那么到底怎么用呢？
 
 - 轻按 = 鼠标左键点击
@@ -102,7 +102,7 @@ Macbook的触控板用了都说好！那么到底怎么用呢？
 
 就是酱紫！快试一试吧！刚开始懵懵的，木有关系！熟悉了就会发现真是***太妙了***！
 
-## 键盘
+### 键盘
 
 
 
