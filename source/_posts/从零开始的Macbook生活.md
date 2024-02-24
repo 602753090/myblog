@@ -76,9 +76,8 @@ tags:
 
 全部设置完成后，进入**桌面**，点击左上角**苹果图标**，关于本机，查看**序列号**是否一致！
 
-<img src="../images/guanyu.jpg" height="50%" width="50%">
-
-<img src="../images/本机信息.png" height="50%" width="50%">
+<img src="../images/guanyu.jpg" height="25%" width="25%">
+<img src="../images/本机信息.png" height="25%" width="25%">
 
 ### 官网查询序列号
 进入[**官网序列号查询**](https://checkcoverage.apple.com/?locale=zh_CN)查看保修！
