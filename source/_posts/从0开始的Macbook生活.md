@@ -144,12 +144,18 @@ Macbook的触控板用了都说好！那么到底怎么用呢？
 #### 第三方
 这里介绍实用的第三方App！已经安装的会被标记！
 
- [x] homebrew - 一个类似于包管理器的软件，可以用来在终端直接安装软件。好处是只需要输入`brew upgrade`就可以一键更新所有用honebrew安装的软件，安装软件时可以用`brew search <软件名>`先搜索有没有这个软件，有的话使用`brew install <软件名>`安装。
+[x]homebrew - 一个类似于包管理器的软件，可以用来在终端直接安装软件。好处是只需要输入`brew upgrade`就可以一键更新所有用honebrew安装的软件，安装软件时可以用`brew search <软件名>`先搜索有没有这个软件，有的话使用`brew install <软件名>`安装。
+
 [x] battery-buddy - 就是右上角可爱的电池图标！
-- [x] runcat - 就是右上角奔跑的猫猫！
-- [x] TOPnotch - 隐藏刘海！
-- [x] Clash - VPN
-- [x] Office
+
+ [x]runcat - 就是右上角奔跑的猫猫！
+
+ [x] TOPnotch - 隐藏刘海！
+
+  [x]Clash - VPN
+
+  [x] Office
+  
 - [ ] Graphpad
 - [ ] NoTunes - Mac默认直接按F8就可以一键播放音乐，但是只能使用苹果音乐播放，这个软件用来屏蔽唤醒苹果音乐，并且可以改为其他播放软件。
 - [ ] iBar - 右上角图标太多导致显示不全时，用来隐藏部分图标。
